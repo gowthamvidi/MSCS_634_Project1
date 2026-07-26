@@ -1,4 +1,14 @@
+
 # MSCS 634 Project Deliverable 3
+
+### Student Information
+- **Name:** Shiva Gowtham Kumar Vidiyala, Raghav Gurram, Vikram Reddy Tekula
+- **Course:** MSCS 634 – Advanced Data Mining
+- **Deliverable:** Deliverable 3 – Classification, Clustering, and Pattern Mining
+- **Programming Language:** Python
+- **Environment:** Jupyter Notebook
+
+
 ## Classification, Clustering, and Association Rule Mining
 
 This repository analyzes the **Online Shoppers Purchasing Intention Dataset** from the UCI Machine Learning Repository. Each record represents an e-commerce browsing session, and the binary target `Revenue` indicates whether the session resulted in a purchase.
