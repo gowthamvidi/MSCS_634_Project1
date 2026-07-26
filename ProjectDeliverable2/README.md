@@ -1,5 +1,12 @@
 # Online Shoppers Regression Modeling
 
+### Student Information
+- **Name:** Shiva Gowtham Kumar Vidiyala, Raghav Gurram, Vikram Reddy Tekula
+- **Course:** MSCS 634 – Advanced Data Mining
+- **Deliverable:** Deliverable 3: Classification, Clustering, and Pattern Mining
+- **Programming Language:** Python
+- **Environment:** Jupyter Notebook
+
 ## Project Overview
 
 This project uses the cleaned **Online Shoppers Purchasing Intention** dataset to build regression models that estimate **`ProductRelated_Duration`**, the time a visitor spends on product-related pages during an online shopping session.
