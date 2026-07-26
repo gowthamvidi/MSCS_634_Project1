@@ -18,33 +18,10 @@ The project extends the earlier data-cleaning, exploratory-analysis, and regress
 ## Repository Contents
 
 ```text
-MSCS_634_ProjectDeliverable_3/
+ProjectDeliverable_3/
 ├── MSCS_634_ProjectDeliverable_3.ipynb
 ├── README.md
-├── requirements.txt
-├── .gitignore
 ├── online_shoppers_intention.csv
-├── figures/
-│   ├── 01_classification_model_comparison.png
-│   ├── 02_decision_tree_confusion_matrix.png
-│   ├── 03_random_forest_confusion_matrix.png
-│   ├── 04_tuned_decision_tree_confusion_matrix.png
-│   ├── 05_classification_roc_curves.png
-│   ├── 06_random_forest_feature_importance.png
-│   ├── 07_kmeans_silhouette_scores.png
-│   ├── 08_kmeans_pca_clusters.png
-│   ├── 09_cluster_profile_heatmap.png
-│   └── 10_top_purchase_association_rules.png
-└── outputs/
-    ├── association_rules.csv
-    ├── best_hyperparameters.json
-    ├── classification_metrics.csv
-    ├── classification_reports.csv
-    ├── cluster_profiles.csv
-    ├── frequent_itemsets.csv
-    ├── purchase_association_rules.csv
-    ├── random_forest_feature_importance.csv
-    └── silhouette_scores.csv
 ```
 
 ## Dataset and Preparation
