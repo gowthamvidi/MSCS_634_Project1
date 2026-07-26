@@ -3,7 +3,7 @@
 
 ### Student Information
 - **Name:** Shiva Gowtham Kumar Vidiyala, Raghav Gurram, Vikram Reddy Tekula
-- **Course:** MSCS 634 – Advanced Data Mining
+- **Course:** MSCS 634 –  Advanced Big Data and Data Mining
 - **Deliverable:** Deliverable 3 – Classification, Clustering, and Pattern Mining
 - **Programming Language:** Python
 - **Environment:** Jupyter Notebook
