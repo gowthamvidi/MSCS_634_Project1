@@ -60,6 +60,11 @@ Online_Shoppers_Comprehensive_Report.pdf
 Online_Shoppers_Project_Presentation.pptx
 ```
 
+## Video presentation
+1. Please login into Cumberlands Account
+2. Click the below link 
+https://cumber-my.sharepoint.com/:f:/g/personal/svidiyala40297_ucumberlands_edu/IgD9X_FSQcTmR6WrKioCuSUiAfMZ6m4iqcn4mEFTUrPz9zA?e=HWSKsW
+
 ## How to Run the Notebook
 1. Open `Online_Shoppers_Data_Mining_Final.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
 2. Make sure the `data/online_shoppers_intention.csv` file remains in the `data` folder.
